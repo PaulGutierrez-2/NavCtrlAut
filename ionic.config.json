@@ -1,0 +1,7 @@
+{
+  "name": "NavCtrlAut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
