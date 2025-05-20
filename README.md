@@ -6,6 +6,12 @@ Este proyecto es una aplicación móvil construida con **Ionic** y **Angular Sta
 
 ---
 
+## Video Explicativo
+
+[Ver video explicativo en YouTube](https://youtu.be/Y14D54yvczI)
+
+---
+
 ## Estructura de Rutas
 
 - `/home`: Página de inicio (pública).

@@ -25,6 +25,7 @@ export class SettingsPage implements OnInit {
   goBack() {
     this.navCtrl.navigateBack('/tabs'); // Navega de regreso a tabs
   }
+  
   logout() {
     this.authService.logout(); // Cierra sesión eliminando el token
     this.navCtrl.navigateRoot('/home'); // Navega a la página de inicio
